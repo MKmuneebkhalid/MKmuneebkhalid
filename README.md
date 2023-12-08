@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKmuneebkhalid
 - 👀 I’m interested in creating new things
-- 🌱 I’m currently learning python and java programming
+- 🌱 I’m currently doing python and java programming
 - 📫 How to reach me muneebkhalid006@gmail.com
 
 <!---
