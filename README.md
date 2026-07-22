@@ -72,12 +72,6 @@ A collection and framework for modular voice-AI capabilities written in Python, 
 
 I prefer systems that are explicit about ownership, permissions, failure states, and evidence. My goal is not only to make a feature work, but to make its behavior understandable, testable, reusable, and safe to operate.
 
-## GitHub activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MKmuneebkhalid&show_icons=true&hide_border=true&rank_icon=github" alt="Muneeb's GitHub statistics" />
-</p>
-
 ## Contact
 
 The best way to reach me is at [muneebkhalid006@gmail.com](mailto:muneebkhalid006@gmail.com).
